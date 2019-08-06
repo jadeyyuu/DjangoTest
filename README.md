@@ -39,6 +39,8 @@ An alternate way you can do this is to add the chrome driver and other drivers i
   * [mfs_ATS2_product](https://github.com/jadeyyuu/DjangoTest/blob/master/FoodService_test/mfs_ATS2_product.py): Test CRUD(Create, Read, Update, Delete) function on the Product list.
   * [mfs_ATS3_Services](https://github.com/jadeyyuu/DjangoTest/blob/master/FoodService_test/mfs_ATS3_Services.py): Test CRUD(Create, Read, Update, Delete) function on the Service list.
   * [mfs_ATS4_Customer](https://github.com/jadeyyuu/DjangoTest/blob/master/FoodService_test/mfs_ATS4_Customer.py): Test CRUD(Create, Read, Update, Delete) function on the Customer list.
+  * [mfs_ATS_CSV](https://github.com/jadeyyuu/DjangoTest/blob/master/FoodServie_Test_CSV/mfs_ATS_CSV.py): Test to create one test script that reads records from a csv or Excel file and automatically creates 3 new customers in the MFSCRM system.
+
 
 ## Acknowledgments
 Using the native selenium commands and Pycharm to help us build our automated test script. 
